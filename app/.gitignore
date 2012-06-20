@@ -1,0 +1,7 @@
+
+/.bundle
+
+/db/*.splite3
+
+/log/*.log
+/tmp
